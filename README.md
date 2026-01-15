@@ -29,8 +29,6 @@ user-friendly chat interface.
    npm install
 4. Start the server:
    node index.js
-5. Open the browser and run:
-   http://localhost:3000
 
 ## Purpose
 This project was created for learning and practicing full-stack web development
